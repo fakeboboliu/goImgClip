@@ -1,0 +1,5 @@
+rsrc.syso
+build/
+*.exe
+.idea/
+assets/
